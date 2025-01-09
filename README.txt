@@ -1,0 +1,1 @@
+This is a repository storing r files that were used to respond to questions in my stat 565 course. Not all files from the course are available due to loss of access. General descriptions are in individual scripts. 
